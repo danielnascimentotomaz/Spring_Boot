@@ -1,0 +1,9 @@
+package com.pradroesdeprojetos.pradroesdeprojetos.repository;
+
+import com.pradroesdeprojetos.pradroesdeprojetos.model.Endereco;
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+@Repository
+public interface EnderecoRepository extends JpaRepository<Endereco,String> {
+}

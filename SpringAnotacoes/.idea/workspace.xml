@@ -1,0 +1,1049 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1dd1810-c862-4abe-b84e-1dfb5d634431" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../CURSO DE JAVA - GUSTAVO GUANABARA/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO DE JAVA - GUSTAVO GUANABARA/.idea/CURSO DE JAVA - GUSTAVO GUANABARA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO DE JAVA - GUSTAVO GUANABARA/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO DE JAVA - GUSTAVO GUANABARA/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO DE JAVA - GUSTAVO GUANABARA/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO DE JAVA - GUSTAVO GUANABARA/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO DE JAVA - GUSTAVO GUANABARA/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO DE JAVA - GUSTAVO GUANABARA/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO DE JAVA - GUSTAVO GUANABARA/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO DE JAVA - GUSTAVO GUANABARA/AULAS E EXERCICIOS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/.idea/CURSO_DE_JAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/Curso_Collectios_Java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/LAB-PADROES-PROJETO-JAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/LAB-PADROES-PROJETO-JAVA/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/LAB-PADROES-PROJETO-JAVA/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/LAB-PADROES-PROJETO-JAVA/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/LAB-PADROES-PROJETO-JAVA/LAB-PADROES-PROJETO-JAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/LAB-PADROES-PROJETO-JAVA/out/production/LAB-PADROES-PROJETO-JAVA/facade/Facade.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/LAB-PADROES-PROJETO-JAVA/out/production/LAB-PADROES-PROJETO-JAVA/facade/I.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/LAB-PADROES-PROJETO-JAVA/out/production/LAB-PADROES-PROJETO-JAVA/singleton/RodarProjeto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/LAB-PADROES-PROJETO-JAVA/out/production/LAB-PADROES-PROJETO-JAVA/singleton/SingletonEager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/LAB-PADROES-PROJETO-JAVA/out/production/LAB-PADROES-PROJETO-JAVA/singleton/SingletonLazy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/LAB-PADROES-PROJETO-JAVA/out/production/LAB-PADROES-PROJETO-JAVA/singleton/SingletonLazyHolder$InstaciaHolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/LAB-PADROES-PROJETO-JAVA/out/production/LAB-PADROES-PROJETO-JAVA/singleton/SingletonLazyHolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/LAB-PADROES-PROJETO-JAVA/out/production/LAB-PADROES-PROJETO-JAVA/strategy/Comportamento.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/LAB-PADROES-PROJETO-JAVA/out/production/LAB-PADROES-PROJETO-JAVA/strategy/ComportamentoAgressivo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/LAB-PADROES-PROJETO-JAVA/out/production/LAB-PADROES-PROJETO-JAVA/strategy/ComportamentoDefensivo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/LAB-PADROES-PROJETO-JAVA/out/production/LAB-PADROES-PROJETO-JAVA/strategy/ComportamentoNormal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/LAB-PADROES-PROJETO-JAVA/out/production/LAB-PADROES-PROJETO-JAVA/subsistema/CrmService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/LAB-PADROES-PROJETO-JAVA/out/production/LAB-PADROES-PROJETO-JAVA/subsistema01/CepApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/LAB-PADROES-PROJETO-JAVA/src/facade/Facade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/LAB-PADROES-PROJETO-JAVA/src/facade/Fim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/LAB-PADROES-PROJETO-JAVA/src/facade/RodarProjeto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/LAB-PADROES-PROJETO-JAVA/src/singleton/RodarProjeto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/LAB-PADROES-PROJETO-JAVA/src/singleton/SingletonEager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/LAB-PADROES-PROJETO-JAVA/src/singleton/SingletonLazyHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/LAB-PADROES-PROJETO-JAVA/src/strategy/Comportamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/LAB-PADROES-PROJETO-JAVA/src/strategy/ComportamentoAgressivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/LAB-PADROES-PROJETO-JAVA/src/strategy/ComportamentoDefensivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/LAB-PADROES-PROJETO-JAVA/src/strategy/ComportamentoNormal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/LAB-PADROES-PROJETO-JAVA/src/strategy/Robo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/LAB-PADROES-PROJETO-JAVA/src/strategy/RodarProjeto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/LAB-PADROES-PROJETO-JAVA/src/subsistema/CrmService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/out/production/LAB-PADROES-PROJETO-JAVA/facade/Facade.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/out/production/LAB-PADROES-PROJETO-JAVA/facade/Fim.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/out/production/LAB-PADROES-PROJETO-JAVA/facade/RodarProjeto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/out/production/LAB-PADROES-PROJETO-JAVA/singleton/RodarProjeto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/out/production/LAB-PADROES-PROJETO-JAVA/singleton/SingletonEager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/out/production/LAB-PADROES-PROJETO-JAVA/singleton/SingletonLazy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/out/production/LAB-PADROES-PROJETO-JAVA/singleton/SingletonLazyHolder$InstaciaHolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/out/production/LAB-PADROES-PROJETO-JAVA/singleton/SingletonLazyHolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/out/production/LAB-PADROES-PROJETO-JAVA/strategy/Comportamento.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/out/production/LAB-PADROES-PROJETO-JAVA/strategy/ComportamentoAgressivo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/out/production/LAB-PADROES-PROJETO-JAVA/strategy/ComportamentoNormal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/out/production/LAB-PADROES-PROJETO-JAVA/strategy/Robo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/out/production/LAB-PADROES-PROJETO-JAVA/strategy/RodarProjeto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/LAB-PADROES-PROJETO-JAVA/out/production/LAB-PADROES-PROJETO-JAVA/subsistema/CrmService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/ORDENACAO_LIST/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/ORDENACAO_LIST/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/ORDENACAO_LIST/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/ORDENACAO_LIST/ORDENACAO_LIST.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/ORDENACAO_LIST/out/production/ORDENACAO_LIST/ordenacaolist/Aluno.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/ORDENACAO_LIST/out/production/ORDENACAO_LIST/ordenacaolist/OrdenacaoList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/ORDENACAO_LIST/src/ordenacaolist/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/ORDENACAO_LIST/src/ordenacaolist/OrdenacaoList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/ORIENTACAO-OBJETO/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/ORIENTACAO-OBJETO/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/ORIENTACAO-OBJETO/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/ORIENTACAO-OBJETO/ORIENTACAO-OBJETO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/ORIENTACAO-OBJETO/OrientacaoObjeto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/ORIENTACAO-OBJETO/out/production/OrientacaoObjeto/orientacaoobjeto/ClasseLivro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/ORIENTACAO-OBJETO/out/production/OrientacaoObjeto/orientacaoobjeto/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/ORIENTACAO-OBJETO/out/production/OrientacaoObjeto/orientacaoobjeto/main02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/ORIENTACAO-OBJETO/src/orientacaoobjeto/ClasseLivro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/ORIENTACAO-OBJETO/src/orientacaoobjeto/ContaBanco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/ORIENTACAO-OBJETO/src/orientacaoobjeto/RodarConta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/out/production/Curso_Collectios_Java/exercicio/lista/ComparatorCor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/out/production/Curso_Collectios_Java/exercicio/lista/ComparatorIdade.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/out/production/Curso_Collectios_Java/exercicio/lista/Gatos.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/out/production/Curso_Collectios_Java/exercicio/lista/Lista.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/out/production/Curso_Collectios_Java/exercicio/lista/Ordenacao_List.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/out/production/Curso_Collectios_Java/exercicio/map/Maps.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/out/production/Curso_Collectios_Java/exercicio/map/OrdenacaoMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/out/production/Curso_Collectios_Java/exercicio/map/Pessoa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/out/production/Curso_Collectios_Java/exercicio/objeto/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/out/production/Curso_Collectios_Java/exercicio/set/ComparatoNomeGeneroTempoEpisodio.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/out/production/Curso_Collectios_Java/exercicio/set/Serie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/out/production/Curso_Collectios_Java/exercicio/set/Sets.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/out/production/ORDENACAO_LIST/ordenacaolist/Gato.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/out/production/ORDENACAO_LIST/ordenacaolist/OrdenacaoList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/out/production/ORIENTACAO-OBJETO/orientacaoobjeto/ClasseLivro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/out/production/ORIENTACAO-OBJETO/orientacaoobjeto/ContaBanco.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/out/production/ORIENTACAO-OBJETO/orientacaoobjeto/RodarConta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CURSO_DE_JAVA/out/production/ORIENTACAO-OBJETO/orientacaoobjeto/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/.idea/libraries/Maven__org_openjfx_javafx_base_17_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/.idea/libraries/Maven__org_openjfx_javafx_base_win_17_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/.idea/libraries/Maven__org_openjfx_javafx_controls_17_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/.idea/libraries/Maven__org_openjfx_javafx_controls_win_17_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/.idea/libraries/Maven__org_openjfx_javafx_fxml_17_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_17_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/.idea/libraries/Maven__org_openjfx_javafx_graphics_17_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_17_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Animal/Animal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Animal/UOJ_1049_b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Animal/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Camarote_do_Blue_Cold_Ice_Cubes/Camarote_do_Blue_Cold_Ice_Cubes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Camarote_do_Blue_Cold_Ice_Cubes/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Consoante/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Consoante/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Consoante/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Consoante/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Consoante/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Consoante/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Consoante/Consoante.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Consoante/out/production/Consoante/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Consoante/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/ContaEspacoseVogais/ContaEspacoseVogais.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/ContaEspacoseVogais/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/DESAFIO DE CÓDIGO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Dc_Monalds/Dc_Monalds.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Dc_Monalds/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/DownloaddePacotes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/DownloaddePacotes/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/DownloaddePacotes/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/DownloaddePacotes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/DownloaddePacotes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/DownloaddePacotes/DownloaddePacotes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/DownloaddePacotes/out/production/DownloaddePacotes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/DownloaddePacotes/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/FabricadeCarros/FabricadeCarros.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/FabricadeCarros/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Fatorial/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Fatorial/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Fatorial/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Fatorial/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Fatorial/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Fatorial/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Fatorial/Fatorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Fatorial/out/production/Fatorial/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Fatorial/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/FibonacciFacil/FibonacciFacil.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/FibonacciFacil/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Imoveis_Disponiveis/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Imoveis_Disponiveis/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Imoveis_Disponiveis/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Imoveis_Disponiveis/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Imoveis_Disponiveis/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Imoveis_Disponiveis/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Imoveis_Disponiveis/Imoveis_Disponiveis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Imoveis_Disponiveis/out/production/Imoveis_Disponiveis/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Imoveis_Disponiveis/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/ImprimindoPositivoseMedia/ImprimindoPositivoseMedia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/ImprimindoPositivoseMedia/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/IndustriadaMulta/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/IndustriadaMulta/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/IndustriadaMulta/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/IndustriadaMulta/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/IndustriadaMulta/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/IndustriadaMulta/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/IndustriadaMulta/IndustriadaMulta.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/IndustriadaMulta/out/production/IndustriadaMulta/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/IndustriadaMulta/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/LeituradaGertrudes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/LeituradaGertrudes/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/LeituradaGertrudes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/LeituradaGertrudes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/LeituradaGertrudes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/LeituradaGertrudes/LeituradaGertrudes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/LeituradaGertrudes/out/production/LeituradaGertrudes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/LojinhadeDoces/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/LojinhadeDoces/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/LojinhadeDoces/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/LojinhadeDoces/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/LojinhadeDoces/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/LojinhadeDoces/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/LojinhadeDoces/LojinhadeDoces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/LojinhadeDoces/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/MaiorMedia/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/MaiorMedia/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/MaiorMedia/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/MaiorMedia/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/MaiorMedia/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/MaiorMedia/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/MaiorMedia/MaiorMedia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/MaiorMedia/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Matriz/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Matriz/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Matriz/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Matriz/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Matriz/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Matriz/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Matriz/Matriz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Matriz/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/MesadaSobrinho/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/MesadaSobrinho/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/MesadaSobrinho/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/MesadaSobrinho/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/MesadaSobrinho/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/MesadaSobrinho/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/MesadaSobrinho/MesadaSobrinho.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/MesadaSobrinho/out/production/MesadaSobrinho/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/NomeIdade/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/NomeIdade/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/NomeIdade/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/NomeIdade/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/NomeIdade/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/NomeIdade/NomeIdade.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/NomeIdade/out/production/NomeIdade/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/NomeIdade/src/Continuar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Nota/Nota.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Nota/Nota/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Nota/Nota/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Nota/Nota/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Nota/Nota/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Nota/Nota/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Nota/Nota/Nota.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Nota/Nota/out/production/Nota/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Nota/Nota/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/NumeroAleatorios/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/NumeroAleatorios/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/NumeroAleatorios/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/NumeroAleatorios/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/NumeroAleatorios/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/NumeroAleatorios/NumeroAleatorios.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/NumeroAleatorios/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/OrdemIversa/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/OrdemIversa/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/OrdemIversa/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/OrdemIversa/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/OrdemIversa/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/OrdemIversa/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/OrdemIversa/OrdemIversa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/OrdemIversa/OrdemIverso.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/OrdemIversa/out/production/OrdemIverso/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/ParImpar/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/ParImpar/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/ParImpar/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/ParImpar/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/ParImpar/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/ParImpar/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/ParImpar/ParImpar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/ParImpar/out/production/ParImpar/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/ParImpar/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/PontoNaCarteira/PontoNacarteira.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/PontoNaCarteira/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/QuitandadoSeuZe/QuitandadoSeuZe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/QuitandadoSeuZe/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/SalvandoMusica/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/SalvandoMusica/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/SalvandoMusica/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/SalvandoMusica/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/SalvandoMusica/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/SalvandoMusica/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/SalvandoMusica/SalvandoMusica.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/SalvandoMusica/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/SomadeHcomNTermos/SomadeHcomNTermos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/SomadeHcomNTermos/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Tabuada/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Tabuada/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Tabuada/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Tabuada/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Tabuada/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Tabuada/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Tabuada/Tabuada.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Tabuada/out/production/Tabuada/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Tabuada/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/TaxadeImpostodeRenda/TaxadeImpostodeRenda.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/TaxadeImpostodeRenda/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Triangulo/Triangulo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DESAFIO DE CÓDIGO/Triangulo/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DOCUMENTAÇÃO DE JAVA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dominando IDES JAVA/Dominando IDEs Java.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dominando IDES JAVA/curso-dio-dominando-ides-java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ESTRUTURAS EXCEPCIONAIS/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ESTRUTURAS EXCEPCIONAIS/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ESTRUTURAS EXCEPCIONAIS/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ESTRUTURAS EXCEPCIONAIS/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ESTRUTURAS EXCEPCIONAIS/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ESTRUTURAS EXCEPCIONAIS/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ESTRUTURAS EXCEPCIONAIS/ESTRUTURAS EXCEPCIONAIS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ESTRUTURAS EXCEPCIONAIS/EstruturasExcepcionais/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ESTRUTURAS EXCEPCIONAIS/EstruturasExcepcionais/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ESTRUTURAS EXCEPCIONAIS/EstruturasExcepcionais/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ESTRUTURAS EXCEPCIONAIS/EstruturasExcepcionais/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ESTRUTURAS EXCEPCIONAIS/EstruturasExcepcionais/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ESTRUTURAS EXCEPCIONAIS/EstruturasExcepcionais/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ESTRUTURAS EXCEPCIONAIS/EstruturasExcepcionais/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ESTRUTURAS EXCEPCIONAIS/EstruturasExcepcionais/EstruturasExcepcionais.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ESTRUTURAS EXCEPCIONAIS/EstruturasExcepcionais/out/production/EstruturasExcepcionais/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ESTRUTURAS EXCEPCIONAIS/EstruturasExcepcionais/out/production/EstruturasExcepcionais/uncheckedException/UncheckedException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ESTRUTURAS EXCEPCIONAIS/EstruturasExcepcionais/src/checkedException/CheckedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ESTRUTURAS EXCEPCIONAIS/EstruturasExcepcionais/src/personalizadaException/CepInvalidoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ESTRUTURAS EXCEPCIONAIS/EstruturasExcepcionais/src/personalizadaException/DivisaoNaoExata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ESTRUTURAS EXCEPCIONAIS/EstruturasExcepcionais/src/personalizadaException/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ESTRUTURAS EXCEPCIONAIS/EstruturasExcepcionais/src/personalizadaException/ValidacaoCpf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ESTRUTURAS EXCEPCIONAIS/EstruturasExcepcionais/src/uncheckedException/UncheckedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ESTRUTURAS EXCEPCIONAIS/EstruturasExcepcionais/src/uncheckedException/UncheckedException01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ESTRUTURAS EXCEPCIONAIS/Tratamento de Exceções em Java.pptx.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ESTRUTURAS EXCEPCIONAIS/out/production/ESTRUTURAS EXCEPCIONAIS/checkedException/CheckedException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ESTRUTURAS EXCEPCIONAIS/out/production/ESTRUTURAS EXCEPCIONAIS/personalizadaException/DivisaoNaoExata.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ESTRUTURAS EXCEPCIONAIS/out/production/ESTRUTURAS EXCEPCIONAIS/personalizadaException/ValidacaoCpf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ESTRUTURAS EXCEPCIONAIS/out/production/ESTRUTURAS EXCEPCIONAIS/uncheckedException/UncheckedException01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ESTRUTURAS EXCEPCIONAIS/romances.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXERCICIO_POO/Carro/Carro/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXERCICIO_POO/Carro/Carro/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXERCICIO_POO/Carro/Carro/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXERCICIO_POO/Carro/Carro/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXERCICIO_POO/Carro/Carro/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXERCICIO_POO/Carro/Carro/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXERCICIO_POO/Carro/Carro/Carro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXERCICIO_POO/Carro/Carro/src/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstruturasDeDados/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstruturasDeDados/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstruturasDeDados/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstruturasDeDados/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstruturasDeDados/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstruturasDeDados/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstruturasDeDados/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstruturasDeDados/EstruturasDeDados.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstruturasDeDados/out/production/EstruturasDeDados/a1atribuicaoreferencia/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstruturasDeDados/out/production/EstruturasDeDados/a1atribuicaoreferencia/MeuObjeto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstruturasDeDados/out/production/EstruturasDeDados/a2nó/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstruturasDeDados/out/production/EstruturasDeDados/a2nó/No.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstruturasDeDados/out/production/EstruturasDeDados/a3nóGeneric/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstruturasDeDados/out/production/EstruturasDeDados/a3nóGeneric/No.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstruturasDeDados/out/production/EstruturasDeDados/a4Pilha/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstruturasDeDados/src/a1atribuicaoreferencia/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstruturasDeDados/src/a1atribuicaoreferencia/MeuObjeto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstruturasDeDados/src/a2nó/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstruturasDeDados/src/a2nó/No.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstruturasDeDados/src/a3nóGeneric/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstruturasDeDados/src/a3nóGeneric/No.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstruturasDeDados/src/a4Pilha/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstruturasDeDados/src/a4Pilha/No.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstruturasDeDados/src/a4Pilha/Pilha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstruturasDeDados/src/a5Fila/Fila.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstruturasDeDados/src/a5Fila/No.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FORMACÃO DE JAVA/MATERIAL DIDÁTICO/Tratamento de Exceções em Java.pptx.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FORMACÃO DE JAVA/TRATAMENTO-DE-EXCECOES/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FORMACÃO DE JAVA/TRATAMENTO-DE-EXCECOES/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FORMACÃO DE JAVA/TRATAMENTO-DE-EXCECOES/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FORMACÃO DE JAVA/TRATAMENTO-DE-EXCECOES/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FORMACÃO DE JAVA/TRATAMENTO-DE-EXCECOES/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FORMACÃO DE JAVA/TRATAMENTO-DE-EXCECOES/TRATAMENTODEEXECOES.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FORMACÃO DE JAVA/TRATAMENTO-DE-EXCECOES/out/production/TRATAMENTODEEXECOES/unchecked_exception/Laco_Unchecked_Exception.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FORMACÃO DE JAVA/TRATAMENTO-DE-EXCECOES/out/production/TRATAMENTODEEXECOES/unchecked_exception/Unchecked_Exception.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FORMACÃO DE JAVA/TRATAMENTO-DE-EXCECOES/src/unchecked_exception/Laco_Unchecked_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FORMACÃO DE JAVA/TRATAMENTO-DE-EXCECOES/src/unchecked_exception/Unchecked_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUnit/Teste Unitario 01/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUnit/Teste Unitario 01/.idea/JUnit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUnit/Teste Unitario 01/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUnit/Teste Unitario 01/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUnit/Teste Unitario 01/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUnit/Teste Unitario 01/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUnit/Teste Unitario 01/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUnit/Teste Unitario 01/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUnit/Teste Unitario 01/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUnit/Teste Unitario 01/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUnit/Teste Unitario 01/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUnit/Teste Unitario 01/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUnit/Teste Unitario 01/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUnit/Teste Unitario 01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUnit/Teste Unitario 01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUnit/Teste Unitario 01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUnit/Teste Unitario 01/junit5-exemplos" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUnit/Testes Unitários Com JUnit.pptx.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PLAFORMA-BEECROWD-JAVA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROGRAMAS USANDO A BIBLIOTECA SWING" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/BANCO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Boocamp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Boocamp/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Boocamp/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Boocamp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Boocamp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Boocamp/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Boocamp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Boocamp/Boocamp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Boocamp/out/production/Boocamp/Boocamp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Boocamp/out/production/Boocamp/Conteudo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Boocamp/out/production/Boocamp/Devs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Boocamp/out/production/Boocamp/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Boocamp/out/production/Boocamp/Mentoria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Boocamp/src/Boocamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Boocamp/src/Conteudo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Boocamp/src/Curso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Boocamp/src/Devs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Boocamp/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Boocamp/src/Mentoria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/CRIANDO UM BANCO DIGITAL/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/CRIANDO UM BANCO DIGITAL/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/CRIANDO UM BANCO DIGITAL/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/CRIANDO UM BANCO DIGITAL/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/CRIANDO UM BANCO DIGITAL/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/CRIANDO UM BANCO DIGITAL/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/CRIANDO UM BANCO DIGITAL/CRIANDO UM BANCO DIGITAL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/CRIANDO UM BANCO DIGITAL/CRIANDO_UM_BANCO_DIGITAL/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/CRIANDO UM BANCO DIGITAL/CRIANDO_UM_BANCO_DIGITAL/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/CRIANDO UM BANCO DIGITAL/CRIANDO_UM_BANCO_DIGITAL/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/CRIANDO UM BANCO DIGITAL/CRIANDO_UM_BANCO_DIGITAL/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/CRIANDO UM BANCO DIGITAL/CRIANDO_UM_BANCO_DIGITAL/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/CRIANDO UM BANCO DIGITAL/CRIANDO_UM_BANCO_DIGITAL/CRIANDO_UM_BANCO_DIGITAL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/CRIANDO UM BANCO DIGITAL/CRIANDO_UM_BANCO_DIGITAL/out/production/CRIANDO_UM_BANCO_DIGITAL/banco_digital/Banco.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/CRIANDO UM BANCO DIGITAL/CRIANDO_UM_BANCO_DIGITAL/out/production/CRIANDO_UM_BANCO_DIGITAL/banco_digital/Conta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/CRIANDO UM BANCO DIGITAL/CRIANDO_UM_BANCO_DIGITAL/out/production/CRIANDO_UM_BANCO_DIGITAL/banco_digital/Conta_Poupanca.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/CRIANDO UM BANCO DIGITAL/CRIANDO_UM_BANCO_DIGITAL/out/production/CRIANDO_UM_BANCO_DIGITAL/banco_digital/FuncoesDaConta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/CRIANDO UM BANCO DIGITAL/CRIANDO_UM_BANCO_DIGITAL/out/production/CRIANDO_UM_BANCO_DIGITAL/banco_digital/Resumo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/CRIANDO UM BANCO DIGITAL/CRIANDO_UM_BANCO_DIGITAL/out/production/CRIANDO_UM_BANCO_DIGITAL/banco_digital/RodarAplicacao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/CRIANDO UM BANCO DIGITAL/CRIANDO_UM_BANCO_DIGITAL/src/banco_digital/Banco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/CRIANDO UM BANCO DIGITAL/CRIANDO_UM_BANCO_DIGITAL/src/banco_digital/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/CRIANDO UM BANCO DIGITAL/CRIANDO_UM_BANCO_DIGITAL/src/banco_digital/Conta_Corrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/CRIANDO UM BANCO DIGITAL/CRIANDO_UM_BANCO_DIGITAL/src/banco_digital/Conta_Poupanca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/CRIANDO UM BANCO DIGITAL/CRIANDO_UM_BANCO_DIGITAL/src/banco_digital/FuncoesDaConta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/CRIANDO UM BANCO DIGITAL/CRIANDO_UM_BANCO_DIGITAL/src/banco_digital/RodarAplicacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/CRIANDO UM BANCO DIGITAL/out/production/CRIANDO UM BANCO DIGITAL/banco_digital/Banco.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/CRIANDO UM BANCO DIGITAL/out/production/CRIANDO UM BANCO DIGITAL/banco_digital/Conta_Corrente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/CRIANDO UM BANCO DIGITAL/out/production/CRIANDO UM BANCO DIGITAL/banco_digital/Conta_Poupanca.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/CRIANDO UM BANCO DIGITAL/out/production/CRIANDO UM BANCO DIGITAL/banco_digital/FuncoesDaConta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/CRIANDO UM BANCO DIGITAL/out/production/CRIANDO UM BANCO DIGITAL/banco_digital/RodarAplicacao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/ContaBancoSimple" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/JO-KEN-PO/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/JO-KEN-PO/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/JO-KEN-PO/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/JO-KEN-PO/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/JO-KEN-PO/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/JO-KEN-PO/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/JO-KEN-PO/JO-KEN-PO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/JO-KEN-PO/JO-KEN-PO/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/JO-KEN-PO/JO-KEN-PO/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/JO-KEN-PO/JO-KEN-PO/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/JO-KEN-PO/JO-KEN-PO/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/JO-KEN-PO/JO-KEN-PO/JO-KEN-PO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/JO-KEN-PO/JO-KEN-PO/out/production/JO-KEN-PO/Jokenpo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/JO-KEN-PO/JO-KEN-PO/out/production/JO-KEN-PO/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/JO-KEN-PO/JO-KEN-PO/src/Jokenpo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/JO-KEN-PO/JO-KEN-PO/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/JO-KEN-PO/JO-KEN-PO/src/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/Sistema Smart tv.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/Sistema_Smart_Tv/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/Sistema_Smart_Tv/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/Sistema_Smart_Tv/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/Sistema_Smart_Tv/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/Sistema_Smart_Tv/Sistema_Smart_Tv.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/Sistema_Smart_Tv/out/production/Sistema_Smart_Tv/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/Sistema_Smart_Tv/out/production/Sistema_Smart_Tv/SmartTv.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/Sistema_Smart_Tv/src/SmartTv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/Main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/SmartTv.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/allclasses-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/allclasses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/index-all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/jquery/external/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/jquery/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/jquery/images/ui-icons_222222_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/jquery/images/ui-icons_454545_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/jquery/images/ui-icons_888888_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/jquery/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/jquery/jquery-3.5.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/jquery/jquery-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/jquery/jquery-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/jquery/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/jquery/jquery-ui.structure.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/jquery/jszip-utils/dist/jszip-utils-ie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/jquery/jszip-utils/dist/jszip-utils-ie.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/jquery/jszip-utils/dist/jszip-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/jquery/jszip-utils/dist/jszip-utils.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/jquery/jszip/dist/jszip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/jquery/jszip/dist/jszip.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/member-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/member-search-index.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/resources/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/resources/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/type-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/docs/type-search-index.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROJETO/Sistema Smart tv/out/production/Sistema Smart tv/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring Security/parking-control/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring Security/parking-control/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring Security/parking-control/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring Security/parking-control/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring Security/parking-control/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring Security/parking-control/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring Security/parking-control/src/main/java/com/api/parkingcontrol/controllers/parkingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring Security/parking-control/src/main/java/com/api/parkingcontrol/repositories/ParkingspotRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring Security/parking-control/src/main/java/com/api/parkingcontrol/services/ParkingSpotServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring Security/springSecurity/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring Security/springSecurity/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring Security/springSecurity/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring Security/springSecurity/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring Security/springSecurity/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring Security/springSecurity/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring Security/springSecurity/src/main/java/api/springSecurity/springSecurity/SecurityConfig/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring Security/springSecurity/src/main/java/api/springSecurity/springSecurity/SpringSecurityApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring Security/springSecurity/src/main/java/api/springSecurity/springSecurity/controller/ApiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring Security/springSecurity/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring Security/springSecurity/src/test/java/api/springSecurity/SpringSecurity/SpringSecurityApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiRest/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiRest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiRest/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiRest/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiRest/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiRest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiRest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiRest/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiRest/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiRest/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiRest/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiRest/src/main/java/com/example/dioclass/apirest/ApirestApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiRest/src/main/java/com/example/dioclass/apirest/controller/PersonCrontroller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiRest/src/main/java/com/example/dioclass/apirest/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiRest/src/main/java/com/example/dioclass/apirest/repository/PersonRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiRest/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiRest/src/test/java/com/example/dioclass/apirest/ApirestApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Curso Springboot - Aula - Projeto Springboot.pptx (1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Primeiro-Passos/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Primeiro-Passos/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Primeiro-Passos/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Primeiro-Passos/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Primeiro-Passos/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Primeiro-Passos/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Primeiro-Passos/src/main/java/api/PrimeiroPassos/PrimeiroPassosApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Primeiro-Passos/src/main/java/api/PrimeiroPassos/component/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Primeiro-Passos/src/main/java/api/PrimeiroPassos/component/MyApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Primeiro-Passos/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Primeiro-Passos/src/test/java/api/PrimeiroPassos/PrimeiroPassosApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/SpringAnotacoes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConfigurationProperties/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConfigurationProperties/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConfigurationProperties/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConfigurationProperties/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConfigurationProperties/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConfigurationProperties/src/main/java/dio/ConfigurationProperties/ConfigurationPropertiesApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConfigurationProperties/src/main/java/dio/ConfigurationProperties/Remetente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConfigurationProperties/src/main/java/dio/ConfigurationProperties/SistemaMensagem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConfigurationProperties/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConfigurationProperties/src/test/java/dio/ConfigurationProperties/ConfigurationPropertiesApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties-Value/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties-Value/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties-Value/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties-Value/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties-Value/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties-Value/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties-Value/src/main/java/dio/PropertiesValue/PropertiesValueApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties-Value/src/main/java/dio/PropertiesValue/SistemaMensagem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties-Value/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties-Value/src/test/java/dio/PropertiesValue/PropertiesValueApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringDataJPA/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringDataJPA/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringDataJPA/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringDataJPA/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringDataJPA/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringDataJPA/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringDataJPA/src/main/java/com/example/SpringDataJPA/StartApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringDataJPA/src/main/java/com/example/SpringDataJPA/models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringDataJPA/src/main/java/com/example/SpringDataJPA/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringDataJPA/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../academia_digital/src/main/java/me/api/academia/academia_digital/controller/AlunoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../academia_digital/src/main/java/me/api/academia/academia_digital/controller/AvaliacaoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../academia_digital/src/main/java/me/api/academia/academia_digital/controller/MatriculaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../academia_digital/src/main/java/me/api/academia/academia_digital/dto/AlunoDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../academia_digital/src/main/java/me/api/academia/academia_digital/dto/AvaliacaoDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../academia_digital/src/main/java/me/api/academia/academia_digital/dto/MatriculaDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../academia_digital/src/main/java/me/api/academia/academia_digital/model/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../academia_digital/src/main/java/me/api/academia/academia_digital/model/AvaliacaoFisica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../academia_digital/src/main/java/me/api/academia/academia_digital/model/Matricula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../academia_digital/src/main/java/me/api/academia/academia_digital/repository/AlunoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../academia_digital/src/main/java/me/api/academia/academia_digital/repository/AvaliacaoFisicaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../academia_digital/src/main/java/me/api/academia/academia_digital/repository/MatriculaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../academia_digital/src/main/java/me/api/academia/academia_digital/service/aluno/AlunoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../academia_digital/src/main/java/me/api/academia/academia_digital/service/aluno/AlunoServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../academia_digital/src/main/java/me/api/academia/academia_digital/service/avaliacao/AvaliacaoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../academia_digital/src/main/java/me/api/academia/academia_digital/service/avaliacao/AvaliacaoServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../academia_digital/src/main/java/me/api/academia/academia_digital/service/matriculas/MatriculasService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../academia_digital/src/main/java/me/api/academia/academia_digital/service/matriculas/MatriculasServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apiprodutos/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apiprodutos/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apiprodutos/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apiprodutos/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apiprodutos/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apiprodutos/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apiprodutos/src/main/java/com/produtos/apiprodutos/ApiprodutosApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apiprodutos/src/main/java/com/produtos/apiprodutos/controller/ProdutosController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apiprodutos/src/main/java/com/produtos/apiprodutos/handler/BusinessException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apiprodutos/src/main/java/com/produtos/apiprodutos/handler/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apiprodutos/src/main/java/com/produtos/apiprodutos/handler/ResponseError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apiprodutos/src/main/java/com/produtos/apiprodutos/models/ProdutosModels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apiprodutos/src/main/java/com/produtos/apiprodutos/repository/ProdutoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apiprodutos/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apiprodutos/src/test/java/com/produtos/apiprodutos/ApiprodutosApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parking-control/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parking-control/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parking-control/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parking-control/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parking-control/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parking-control/src/main/java/com/api/parkingcontrol/controllers/parkingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parking-control/src/main/java/com/api/parkingcontrol/dttos/ParkingSpotDttos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parking-control/src/main/java/com/api/parkingcontrol/services/ParkingSpotServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parking-control/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../primeira-api/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../primeira-api/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../primeira-api/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../primeira-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../primeira-api/src/main/java/primeiraApi/primeira/api/PrimeiraApiApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../primeira-api/src/main/java/primeiraApi/primeira/api/controller/PrimeiraApiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../primeira-api/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../primeira-api/src/test/java/primeiraApi/primeira/api/PrimeiraApiApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product_ms/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product_ms/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product_ms/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product_ms/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product_ms/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product_ms/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product_ms/src/main/java/com/api/product_ms/ProductMsApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product_ms/src/main/java/com/api/product_ms/config/MapperConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product_ms/src/main/java/com/api/product_ms/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product_ms/src/main/java/com/api/product_ms/dto/ProductDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product_ms/src/main/java/com/api/product_ms/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product_ms/src/main/java/com/api/product_ms/repository/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product_ms/src/main/java/com/api/product_ms/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product_ms/src/main/java/com/api/product_ms/service/ProductServive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product_ms/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../segunda-api/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../segunda-api/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../segunda-api/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../segunda-api/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../segunda-api/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../segunda-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../segunda-api/src/main/java/api/segunda/api/segunda/api/SegundaApiApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../segunda-api/src/main/java/api/segunda/api/segunda/api/controller/UsuarioController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../segunda-api/src/main/java/api/segunda/api/segunda/api/models/UsuarioModels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../segunda-api/src/main/java/api/segunda/api/segunda/api/repository/UsuarioRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../segunda-api/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../segunda-api/src/test/java/api/segunda/api/segunda/api/SegundaApiApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/01_PRIMEIRO_PROGRAMA/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/01_PRIMEIRO_PROGRAMA/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/01_PRIMEIRO_PROGRAMA/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/01_PRIMEIRO_PROGRAMA/build/classes/primeiroprograma/PrimeiroPrograma.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/01_PRIMEIRO_PROGRAMA/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/01_PRIMEIRO_PROGRAMA/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/01_PRIMEIRO_PROGRAMA/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/01_PRIMEIRO_PROGRAMA/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/01_PRIMEIRO_PROGRAMA/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/01_PRIMEIRO_PROGRAMA/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/01_PRIMEIRO_PROGRAMA/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/01_PRIMEIRO_PROGRAMA/src/primeiroprograma/PrimeiroPrograma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/02-TÉCNICA-CAMELCASE/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/02-TÉCNICA-CAMELCASE/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/02-TÉCNICA-CAMELCASE/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/02-TÉCNICA-CAMELCASE/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/02-TÉCNICA-CAMELCASE/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/02-TÉCNICA-CAMELCASE/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/02-TÉCNICA-CAMELCASE/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/02-TÉCNICA-CAMELCASE/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/02-TÉCNICA-CAMELCASE/src/camelcase/CamelCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/03-TIPO-PRIMITIVO/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/03-TIPO-PRIMITIVO/src/main/java/tipoprimitivo/TipoPrimitivo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/03-TIPO-PRIMITIVO/target/classes/tipoprimitivo/TipoPrimitivo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/03-TIPO-PRIMITIVO/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/03-TIPO-PRIMITIVO/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/04-INCOMPATIBILIDADE-DE-TIPOS/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/04-INCOMPATIBILIDADE-DE-TIPOS/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/04-INCOMPATIBILIDADE-DE-TIPOS/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/04-INCOMPATIBILIDADE-DE-TIPOS/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/04-INCOMPATIBILIDADE-DE-TIPOS/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/04-INCOMPATIBILIDADE-DE-TIPOS/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/04-INCOMPATIBILIDADE-DE-TIPOS/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/04-INCOMPATIBILIDADE-DE-TIPOS/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/04-INCOMPATIBILIDADE-DE-TIPOS/src/aula/Aula.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/05-OPERADORES ARITMETICOS/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/05-OPERADORES ARITMETICOS/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/05-OPERADORES ARITMETICOS/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/05-OPERADORES ARITMETICOS/build/classes/OperadoresAritmetico.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/05-OPERADORES ARITMETICOS/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/05-OPERADORES ARITMETICOS/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/05-OPERADORES ARITMETICOS/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/05-OPERADORES ARITMETICOS/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/05-OPERADORES ARITMETICOS/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/05-OPERADORES ARITMETICOS/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/05-OPERADORES ARITMETICOS/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/05-OPERADORES ARITMETICOS/src/OperadoresAritmetico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/06-OPERADORES-RELACIONAIS-E- LOGICOS/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/06-OPERADORES-RELACIONAIS-E- LOGICOS/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/06-OPERADORES-RELACIONAIS-E- LOGICOS/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/06-OPERADORES-RELACIONAIS-E- LOGICOS/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/06-OPERADORES-RELACIONAIS-E- LOGICOS/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/06-OPERADORES-RELACIONAIS-E- LOGICOS/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/06-OPERADORES-RELACIONAIS-E- LOGICOS/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/06-OPERADORES-RELACIONAIS-E- LOGICOS/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/06-OPERADORES-RELACIONAIS-E- LOGICOS/src/operadoreslogicoserelacionais/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/07-ESTRUTURAS-DE-CONDICIONAIS(PARTE1)/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/07-ESTRUTURAS-DE-CONDICIONAIS(PARTE1)/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/07-ESTRUTURAS-DE-CONDICIONAIS(PARTE1)/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/07-ESTRUTURAS-DE-CONDICIONAIS(PARTE1)/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/07-ESTRUTURAS-DE-CONDICIONAIS(PARTE1)/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/07-ESTRUTURAS-DE-CONDICIONAIS(PARTE1)/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/07-ESTRUTURAS-DE-CONDICIONAIS(PARTE1)/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/07-ESTRUTURAS-DE-CONDICIONAIS(PARTE1)/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/07-ESTRUTURAS-DE-CONDICIONAIS(PARTE1)/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/07-ESTRUTURAS-DE-CONDICIONAIS(PARTE1)/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/07-ESTRUTURAS-DE-CONDICIONAIS(PARTE1)/src/aula/AULA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/08-ESTRUTURAS-CONDICIONAIS(PARTE2)/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/08-ESTRUTURAS-CONDICIONAIS(PARTE2)/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/08-ESTRUTURAS-CONDICIONAIS(PARTE2)/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/08-ESTRUTURAS-CONDICIONAIS(PARTE2)/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/08-ESTRUTURAS-CONDICIONAIS(PARTE2)/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/08-ESTRUTURAS-CONDICIONAIS(PARTE2)/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/08-ESTRUTURAS-CONDICIONAIS(PARTE2)/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/08-ESTRUTURAS-CONDICIONAIS(PARTE2)/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/08-ESTRUTURAS-CONDICIONAIS(PARTE2)/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/08-ESTRUTURAS-CONDICIONAIS(PARTE2)/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/08-ESTRUTURAS-CONDICIONAIS(PARTE2)/src/aula/aula.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/09-ESTRUTURAS-CONDICIONAIS(PARTE3)/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/09-ESTRUTURAS-CONDICIONAIS(PARTE3)/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/09-ESTRUTURAS-CONDICIONAIS(PARTE3)/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/09-ESTRUTURAS-CONDICIONAIS(PARTE3)/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/09-ESTRUTURAS-CONDICIONAIS(PARTE3)/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/09-ESTRUTURAS-CONDICIONAIS(PARTE3)/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/09-ESTRUTURAS-CONDICIONAIS(PARTE3)/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/09-ESTRUTURAS-CONDICIONAIS(PARTE3)/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/09-ESTRUTURAS-CONDICIONAIS(PARTE3)/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/09-ESTRUTURAS-CONDICIONAIS(PARTE3)/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/09-ESTRUTURAS-CONDICIONAIS(PARTE3)/src/aula/Estruturas_Repeicao_aninhada.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/10-ESTRUTURAS-CONDICIONAIS(parte4)/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/10-ESTRUTURAS-CONDICIONAIS(parte4)/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/10-ESTRUTURAS-CONDICIONAIS(parte4)/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/10-ESTRUTURAS-CONDICIONAIS(parte4)/build/classes/exercicio/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/10-ESTRUTURAS-CONDICIONAIS(parte4)/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/10-ESTRUTURAS-CONDICIONAIS(parte4)/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/10-ESTRUTURAS-CONDICIONAIS(parte4)/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/10-ESTRUTURAS-CONDICIONAIS(parte4)/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/10-ESTRUTURAS-CONDICIONAIS(parte4)/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/10-ESTRUTURAS-CONDICIONAIS(parte4)/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/10-ESTRUTURAS-CONDICIONAIS(parte4)/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/10-ESTRUTURAS-CONDICIONAIS(parte4)/src/aula/EstruturasCondicionais.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/10-ESTRUTURAS-CONDICIONAIS(parte4)/src/exercicio/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/11-ESTRUTURAS-REPETIÇÃO/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/11-ESTRUTURAS-REPETIÇÃO/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/11-ESTRUTURAS-REPETIÇÃO/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/11-ESTRUTURAS-REPETIÇÃO/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/11-ESTRUTURAS-REPETIÇÃO/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/11-ESTRUTURAS-REPETIÇÃO/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/11-ESTRUTURAS-REPETIÇÃO/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/11-ESTRUTURAS-REPETIÇÃO/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/11-ESTRUTURAS-REPETIÇÃO/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/11-ESTRUTURAS-REPETIÇÃO/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/11-ESTRUTURAS-REPETIÇÃO/src/aula/EstruturaRepeticao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/12-ESTRUTURAS-REPETIÇÃO(PARTE2)/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/12-ESTRUTURAS-REPETIÇÃO(PARTE2)/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/12-ESTRUTURAS-REPETIÇÃO(PARTE2)/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/12-ESTRUTURAS-REPETIÇÃO(PARTE2)/build/classes/aula/EstruturaRepeticao_repita.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/12-ESTRUTURAS-REPETIÇÃO(PARTE2)/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/12-ESTRUTURAS-REPETIÇÃO(PARTE2)/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/12-ESTRUTURAS-REPETIÇÃO(PARTE2)/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/12-ESTRUTURAS-REPETIÇÃO(PARTE2)/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/12-ESTRUTURAS-REPETIÇÃO(PARTE2)/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/12-ESTRUTURAS-REPETIÇÃO(PARTE2)/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/12-ESTRUTURAS-REPETIÇÃO(PARTE2)/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/12-ESTRUTURAS-REPETIÇÃO(PARTE2)/src/aula/EstruturaRepeticao_repita.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/14 EstruturaRepeticao(parte3)/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/14 EstruturaRepeticao(parte3)/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/14 EstruturaRepeticao(parte3)/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/14 EstruturaRepeticao(parte3)/build/classes/exercicio/Contador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/14 EstruturaRepeticao(parte3)/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/14 EstruturaRepeticao(parte3)/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/14 EstruturaRepeticao(parte3)/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/14 EstruturaRepeticao(parte3)/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/14 EstruturaRepeticao(parte3)/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/14 EstruturaRepeticao(parte3)/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/14 EstruturaRepeticao(parte3)/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/14 EstruturaRepeticao(parte3)/src/estruturarepeticao/parte3/EstruturaRepeticaoParte3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/14 EstruturaRepeticao(parte3)/src/exercicio/Contador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/15 VETORES/Vetores/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/15 VETORES/Vetores/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/15 VETORES/Vetores/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/15 VETORES/Vetores/build/classes/vetores/Vetores.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/15 VETORES/Vetores/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/15 VETORES/Vetores/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/15 VETORES/Vetores/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/15 VETORES/Vetores/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/15 VETORES/Vetores/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/15 VETORES/Vetores/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/15 VETORES/Vetores/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/15 VETORES/Vetores/src/vetores/Vetores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/15 VETORES/Vetores/test/exemplo/Exemplo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/16 VETORES(PARTE 2)/Vetores/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/16 VETORES(PARTE 2)/Vetores/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/16 VETORES(PARTE 2)/Vetores/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/16 VETORES(PARTE 2)/Vetores/build/classes/vetores/Vetores.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/16 VETORES(PARTE 2)/Vetores/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/16 VETORES(PARTE 2)/Vetores/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/16 VETORES(PARTE 2)/Vetores/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/16 VETORES(PARTE 2)/Vetores/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/16 VETORES(PARTE 2)/Vetores/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/16 VETORES(PARTE 2)/Vetores/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/16 VETORES(PARTE 2)/Vetores/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/16 VETORES(PARTE 2)/Vetores/src/vetores/Vetores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/17-MÉTODOS(FUNÇÕES)/Metodos/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/17-MÉTODOS(FUNÇÕES)/Metodos/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/17-MÉTODOS(FUNÇÕES)/Metodos/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/17-MÉTODOS(FUNÇÕES)/Metodos/build/classes/metodos/Metodos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/17-MÉTODOS(FUNÇÕES)/Metodos/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/17-MÉTODOS(FUNÇÕES)/Metodos/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/17-MÉTODOS(FUNÇÕES)/Metodos/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/17-MÉTODOS(FUNÇÕES)/Metodos/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/17-MÉTODOS(FUNÇÕES)/Metodos/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/17-MÉTODOS(FUNÇÕES)/Metodos/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/17-MÉTODOS(FUNÇÕES)/Metodos/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/17-MÉTODOS(FUNÇÕES)/Metodos/src/metodos/Metodos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/MÉTODOS01(FUNÇÃO01)/Metodo01/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/MÉTODOS01(FUNÇÃO01)/Metodo01/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/MÉTODOS01(FUNÇÃO01)/Metodo01/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/MÉTODOS01(FUNÇÃO01)/Metodo01/build/classes/metodo01/Operacoes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/MÉTODOS01(FUNÇÃO01)/Metodo01/build/classes/metodo01/RodarProjeto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/MÉTODOS01(FUNÇÃO01)/Metodo01/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/MÉTODOS01(FUNÇÃO01)/Metodo01/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/MÉTODOS01(FUNÇÃO01)/Metodo01/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/MÉTODOS01(FUNÇÃO01)/Metodo01/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/MÉTODOS01(FUNÇÃO01)/Metodo01/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/MÉTODOS01(FUNÇÃO01)/Metodo01/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/MÉTODOS01(FUNÇÃO01)/Metodo01/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/MÉTODOS01(FUNÇÃO01)/Metodo01/src/metodo01/Operacoes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/AULA/MÉTODOS01(FUNÇÃO01)/Metodo01/src/metodo01/RodarProjeto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/ANO-ATUAL/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/ANO-ATUAL/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/ANO-ATUAL/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/ANO-ATUAL/build/classes/anoatual/AnoAtual.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/ANO-ATUAL/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/ANO-ATUAL/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/ANO-ATUAL/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/ANO-ATUAL/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/ANO-ATUAL/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/ANO-ATUAL/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/ANO-ATUAL/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/ANO-ATUAL/src/anoatual/AnoAtual.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/CalculoDAMedia02/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/CalculoDAMedia02/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/CalculoDAMedia02/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/CalculoDAMedia02/build/classes/calculodamedia02/CalculoDAMedia02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/CalculoDAMedia02/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/CalculoDAMedia02/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/CalculoDAMedia02/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/CalculoDAMedia02/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/CalculoDAMedia02/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/CalculoDAMedia02/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/CalculoDAMedia02/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/CalculoDAMedia02/src/calculodamedia02/CalculoDAMedia02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/CalculoDaMedia/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/CalculoDaMedia/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/CalculoDaMedia/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/CalculoDaMedia/build/classes/calculodamedia/CalculoDaMedia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/CalculoDaMedia/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/CalculoDaMedia/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/CalculoDaMedia/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/CalculoDaMedia/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/CalculoDaMedia/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/CalculoDaMedia/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/CalculoDaMedia/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/CalculoDaMedia/src/calculodamedia/CalculoDaMedia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/HORA-DO-SISTEMA/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/HORA-DO-SISTEMA/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/HORA-DO-SISTEMA/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/HORA-DO-SISTEMA/build/classes/hora/pkgdo/sistema/HORADOSISTEMA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/HORA-DO-SISTEMA/build/classes/horadosistema/HoraDoSistema.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/HORA-DO-SISTEMA/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/HORA-DO-SISTEMA/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/HORA-DO-SISTEMA/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/HORA-DO-SISTEMA/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/HORA-DO-SISTEMA/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/HORA-DO-SISTEMA/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/HORA-DO-SISTEMA/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/HORA-DO-SISTEMA/src/horadosistema/HoraDoSistema.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/IDIOMA-DO-SISTEMA/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/IDIOMA-DO-SISTEMA/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/IDIOMA-DO-SISTEMA/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/IDIOMA-DO-SISTEMA/build/classes/idiomadosistema/IdiomaDoSistema.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/IDIOMA-DO-SISTEMA/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/IDIOMA-DO-SISTEMA/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/IDIOMA-DO-SISTEMA/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/IDIOMA-DO-SISTEMA/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/IDIOMA-DO-SISTEMA/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/IDIOMA-DO-SISTEMA/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/IDIOMA-DO-SISTEMA/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/IDIOMA-DO-SISTEMA/src/idiomadosistema/IdiomaDoSistema.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/IMPRIMIR_0_A_10/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/IMPRIMIR_0_A_10/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/IMPRIMIR_0_A_10/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/IMPRIMIR_0_A_10/build/classes/imprimir_0_a_10/IMPRIMIR_0_A_10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/IMPRIMIR_0_A_10/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/IMPRIMIR_0_A_10/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/IMPRIMIR_0_A_10/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/IMPRIMIR_0_A_10/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/IMPRIMIR_0_A_10/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/IMPRIMIR_0_A_10/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/IMPRIMIR_0_A_10/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/IMPRIMIR_0_A_10/src/imprimir_0_a_10/IMPRIMIR_0_A_10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/RESOLUÇÃO-DA-TELA/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/RESOLUÇÃO-DA-TELA/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/RESOLUÇÃO-DA-TELA/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/RESOLUÇÃO-DA-TELA/build/classes/resolucaodatela/ResolucaoDaTela.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/RESOLUÇÃO-DA-TELA/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/RESOLUÇÃO-DA-TELA/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/RESOLUÇÃO-DA-TELA/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/RESOLUÇÃO-DA-TELA/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/RESOLUÇÃO-DA-TELA/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/RESOLUÇÃO-DA-TELA/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/RESOLUÇÃO-DA-TELA/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/RESOLUÇÃO-DA-TELA/src/resolucaodatela/ResolucaoDaTela.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/SOMA-VALORES/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/SOMA-VALORES/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/SOMA-VALORES/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/SOMA-VALORES/build/classes/soma/Soma.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/SOMA-VALORES/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/SOMA-VALORES/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/SOMA-VALORES/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/SOMA-VALORES/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/SOMA-VALORES/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/SOMA-VALORES/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/SOMA-VALORES/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/SOMA-VALORES/src/soma/Soma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/USANDOCOMANDO_BREAK/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/USANDOCOMANDO_BREAK/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/USANDOCOMANDO_BREAK/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/USANDOCOMANDO_BREAK/build/classes/usandocomando_break/USANDOCOMANDO_BREAK.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/USANDOCOMANDO_BREAK/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/USANDOCOMANDO_BREAK/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/USANDOCOMANDO_BREAK/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/USANDOCOMANDO_BREAK/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/USANDOCOMANDO_BREAK/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/USANDOCOMANDO_BREAK/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/USANDOCOMANDO_BREAK/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/USANDOCOMANDO_BREAK/src/usandocomando_break/USANDOCOMANDO_BREAK.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/USANDOCOMANDO_CONTINUE/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/USANDOCOMANDO_CONTINUE/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/USANDOCOMANDO_CONTINUE/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/USANDOCOMANDO_CONTINUE/build/classes/usandocomando_continue/USANDOCOMANDO_CONTINUE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/USANDOCOMANDO_CONTINUE/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/USANDOCOMANDO_CONTINUE/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/USANDOCOMANDO_CONTINUE/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/USANDOCOMANDO_CONTINUE/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/USANDOCOMANDO_CONTINUE/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/USANDOCOMANDO_CONTINUE/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/USANDOCOMANDO_CONTINUE/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/USANDOCOMANDO_CONTINUE/src/usandocomando_continue/USANDOCOMANDO_CONTINUE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULAS E EXERCICIOS/EXERCICIOS/VotoObrigatorio/VotoObrigatrioOuNao.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ConfigurationProperties/src/main/java/dio/ConfigurationProperties/Remetente.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ConfigurationProperties/src/main/java/dio/ConfigurationProperties/SistemaMensagem.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2OYAhh9NOmgW1qfvj2FWS2pFXhO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/danie/OneDrive/CURSOS TECNOLOGIA/PROJETO/CURSO  DE JAVA/SpringBoot/SpringAnotacoes&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1dd1810-c862-4abe-b84e-1dfb5d634431" name="Changes" comment="" />
+      <created>1681727262757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681727262757</updated>
+    </task>
+    <servers />
+  </component>
+</project>

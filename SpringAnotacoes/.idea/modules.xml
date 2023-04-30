@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ConfigurationProperties/ConfigurationProperties.iml" filepath="$PROJECT_DIR$/ConfigurationProperties/ConfigurationProperties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Properties-Value/Properties-Value.iml" filepath="$PROJECT_DIR$/Properties-Value/Properties-Value.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringAnotacoes.iml" filepath="$PROJECT_DIR$/.idea/SpringAnotacoes.iml" />
+    </modules>
+  </component>
+</project>
